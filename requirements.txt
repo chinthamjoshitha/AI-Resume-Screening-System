@@ -1,0 +1,7 @@
+PyPDF2
+streamlit
+pandas
+PyPDF2
+streamlit
+pandas
+scikit-learn
