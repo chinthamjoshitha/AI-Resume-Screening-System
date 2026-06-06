@@ -20,6 +20,7 @@ AI-powered Resume Screening System that analyzes resumes against job description
 
 ```bash
 pip install -r requirements.txt
+~~~
 
 ## Project Demo
 
