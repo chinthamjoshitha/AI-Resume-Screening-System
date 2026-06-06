@@ -26,8 +26,8 @@ pip install -r requirements.txt
 
 ### Home Page
 
-![Home Page](Screenshot%202026-06-06%20222734.png)
+![Home Page](home_page.png)
 
 ### Resume Match Result
 
-![Resume Match Result](Screenshot%202026-06-06%20222820.png)
+![Resume Match Result](resume_match_result.png)
